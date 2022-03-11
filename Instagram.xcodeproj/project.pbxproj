@@ -18,6 +18,7 @@
 		961BCD5A27D179880087C3B4 /* Pods_Instagram.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 389AB270500EAF922D464C6B /* Pods_Instagram.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		961BCD5F27D1833F0087C3B4 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961BCD5E27D1833F0087C3B4 /* CameraViewController.swift */; };
 		961BCD6127D18A4A0087C3B4 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961BCD6027D18A4A0087C3B4 /* TableViewCell.swift */; };
+		96ABB1EF27DAE89400F8AD8C /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96ABB1EE27DAE89400F8AD8C /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,7 @@
 		961BCD5727D1725C0087C3B4 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		961BCD5E27D1833F0087C3B4 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		961BCD6027D18A4A0087C3B4 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		96ABB1EE27DAE89400F8AD8C /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F16EC3AD66FCB4F0DE0CD20C /* Pods-Instagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.release.xcconfig"; path = "Target Support Files/Pods-Instagram/Pods-Instagram.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,6 +99,7 @@
 				961BCD5E27D1833F0087C3B4 /* CameraViewController.swift */,
 				961BCD4327D166E10087C3B4 /* SceneDelegate.swift */,
 				961BCD4727D166E10087C3B4 /* Main.storyboard */,
+				96ABB1EE27DAE89400F8AD8C /* CommentCell.swift */,
 				961BCD6027D18A4A0087C3B4 /* TableViewCell.swift */,
 				961BCD5727D1725C0087C3B4 /* FeedViewController.swift */,
 				961BCD5527D172430087C3B4 /* LoginViewController.swift */,
@@ -237,6 +240,7 @@
 				961BCD6127D18A4A0087C3B4 /* TableViewCell.swift in Sources */,
 				961BCD5827D1725C0087C3B4 /* FeedViewController.swift in Sources */,
 				961BCD4427D166E10087C3B4 /* SceneDelegate.swift in Sources */,
+				96ABB1EF27DAE89400F8AD8C /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
